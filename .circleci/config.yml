@@ -10,9 +10,8 @@ jobs:
       # the base image can run most needed actions with orbs
       - image: "cimg/base:stable"
     steps:
-      - node/install:
-          install-yarn: true
       - checkout
+      - node/install
       - aws-cli/setup
       - run:
           name: Front-End Install
