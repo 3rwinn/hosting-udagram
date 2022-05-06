@@ -62,7 +62,7 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Documentation
 
-You can read more about the deployment infos in the [DOCS.md](https://github.com/3rwinn/hosting-udagram/blob/master/DOCS.md) file.
+You can read more about the deployment infos in the [DOCS.md](https://github.com/3rwinn/hosting-udagram/blob/master/documentation) file.
 
 ## License
 
