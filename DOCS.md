@@ -11,8 +11,9 @@ A more in depth documentation into the application.
 - AWS Elastic Beanstalk for Backend.
 
 **AWS Cloud Setup**
-RDS - Database Host: nerouda.cd17gx1tx4cx.us-east-1.rds.amazonaws.com
-RDS - Database Port: 5432
-RDS - Database Name: postgres
-S3 Endpoint - Frontend: http://udabuck.s3-website-us-east-1.amazonaws.com
-Elastic Beanstalk URL - Backend: http://udaapi-env.eba-zvw4ifkm.us-east-1.elasticbeanstalk.com
+
+* RDS - Database Host: nerouda.cd17gx1tx4cx.us-east-1.rds.amazonaws.com
+* RDS - Database Port: 5432
+* RDS - Database Name: postgres
+* S3 Endpoint - Frontend: http://udabuck.s3-website-us-east-1.amazonaws.com
+* Elastic Beanstalk URL - Backend: http://udaapi-env.eba-zvw4ifkm.us-east-1.elasticbeanstalk.com
